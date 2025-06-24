@@ -1,0 +1,1 @@
+﻿Create tips by editing the LoadingTips.txt file in your BepInEx config directory.
