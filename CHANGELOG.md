@@ -1,0 +1,2 @@
+# Changelog
+A detailed and updated changelog can be found at the [Github repository releases page](https://github.com/Jack1424/EmpireCompany/releases) for this modpack. The releases page also allows you to download previous versions of Empire Company, although be aware that I will not provide support for them.
