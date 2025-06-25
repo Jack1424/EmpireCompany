@@ -1,1 +1,13 @@
-﻿Create tips by editing the LoadingTips.txt file in your BepInEx config directory.
+﻿Don't forget so SLOW DOWN
+Putting on a mask isn't a good idea
+DO NOT JUMP INTO THE BALL PIT
+Use RMB to scan. It's free!
+Always make sure everyone is in the elevator BEFORE going back up
+If you find a lost wallet, it's yours now (just don't tell anyone)
+Yiiiiippppppeeeeee
+If you see quicksand TURN AROUND, DON'T DROWN
+The item ship will kill you if you stand under it while it's landing
+Feel free to suggest more tips to put here (I'm running out of ideas)
+You can't bring any items with you while teleporting
+Bees don't like it when you try to steal their hive
+Don't forget to sell your items before the dealine
