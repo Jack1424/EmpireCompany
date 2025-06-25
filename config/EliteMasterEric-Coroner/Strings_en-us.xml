@@ -51,6 +51,12 @@
         <FunnyNote text="Hasn't called their mother in a while." />
         <FunnyNote text="Has IP address 127.0.0.1." /> <!-- TN: This note pretends to dox the user but actually specifies the loopback IP address. -->
         <FunnyNote text="Secretly a lizard." />
+        <FunnyNote text="Will buy you Wawa if you ask nicely." />
+        <FunnyNote text="Will NOT buy you Wawa if you ask nicely." />
+        <FunnyNote text="Didn't know what moon they were on." />
+        <FunnyNote text="Seemed to have no idea what they were doing." />
+        <FunnyNote text="Wants to go to TopGolf." />
+        <FunnyNote text="Cooler then the other side of the pillow." />
 
         <!--
             TN: Generic Death Messages
